@@ -1,0 +1,28 @@
+.bg-gray{
+    background-color: rgb(238, 238, 238);
+}
+.text-gray{
+    color: #AAA;
+}
+
+.btn-style{
+
+    transition: all 0.1s;
+
+}
+
+.btn-style:hover{
+    background-color:  rgba(13, 76, 143, 0.981);
+    box-shadow: 3px 5px rgba(0, 0, 0, 0.299);
+}
+.btn-style2:hover{
+    background-color:#79060a;
+    box-shadow: 3px 5px rgba(0, 0, 0, 0.299);
+}
+
+.bg-content{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 20px;
+    
+}
